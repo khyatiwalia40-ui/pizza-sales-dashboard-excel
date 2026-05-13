@@ -27,7 +27,7 @@ The dashboard helps analyze pizza sales performance using charts, pivot tables, 
 ---
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+<img width="1277" height="536" alt="image (5)" src="https://github.com/user-attachments/assets/61597cf1-bd9d-48f2-afc6-73c743e7e656" />
 
 ---
 
